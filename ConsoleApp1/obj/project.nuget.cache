@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6UpW9A+KmwLQQFaQgj8vTmEoAWErBK9FhrY8Mkg6N1N07lAjK7bbGqNybT2NXXCNgzkR3L95Q+A4qRpFmrU1Q==",
+  "success": true,
+  "projectFilePath": "D:\\soheyl\\Git\\GitProject\\RestSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSoheil\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512",
+    "C:\\Users\\MSoheil\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSoheil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

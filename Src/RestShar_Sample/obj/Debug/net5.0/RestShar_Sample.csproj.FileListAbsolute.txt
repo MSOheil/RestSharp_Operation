@@ -1,0 +1,5 @@
+D:\soheyl\Git\GitProject\RestSharp\Src\RestShar_Sample\obj\Debug\net5.0\RestShar_Sample.csproj.AssemblyReference.cache
+D:\soheyl\Git\GitProject\RestSharp\Src\RestShar_Sample\obj\Debug\net5.0\RestShar_Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\soheyl\Git\GitProject\RestSharp\Src\RestShar_Sample\obj\Debug\net5.0\RestShar_Sample.AssemblyInfoInputs.cache
+D:\soheyl\Git\GitProject\RestSharp\Src\RestShar_Sample\obj\Debug\net5.0\RestShar_Sample.AssemblyInfo.cs
+D:\soheyl\Git\GitProject\RestSharp\Src\RestShar_Sample\obj\Debug\net5.0\RestShar_Sample.csproj.CoreCompileInputs.cache
